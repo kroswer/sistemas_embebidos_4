@@ -6,3 +6,5 @@ Tarea, Desarrollo de Software y Control de Versiones.
 Gerardo Francia Fonseca.
 
 Luis Enrique Escamilla Rodríguez
+
+Hugo Enrique Díaz Gayosso
